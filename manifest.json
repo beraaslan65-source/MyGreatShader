@@ -1,0 +1,18 @@
+{
+  "format_version": 2,
+  "header": {
+    "description": "A soft, whimsical, fairytale aesthetic.",
+    "name": "Newb Shader - Daydream Edit",
+    "uuid": "2f65b822-6b99-4c09-b14e-6277ff3df15a",
+    "version":,
+    "min_engine_version": [1, 21, 0]
+  },
+  "modules": [
+    {
+      "description": "Daydream Shader Modules",
+      "type": "resources",
+      "uuid": "8e3c4d7b-231a-4f51-b0e2-8991cc4de23b",
+      "version": [1, 0, 0]
+    }
+  ]
+}
